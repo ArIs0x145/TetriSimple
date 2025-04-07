@@ -36,6 +36,14 @@ ipch/
 # Visual Studio Code Files
 .vscode/
 
+# JetBrains IDE Files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+cmake-build-*/
+
 # CMake Intermediate Files
 CMakeFiles/
 CMakeCache.txt
